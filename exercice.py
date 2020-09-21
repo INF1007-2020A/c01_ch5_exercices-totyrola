@@ -4,7 +4,7 @@
 
 from typing import List
 nombre = input("veuillez choisir un nombre:")
-print("le nombre c")
+print("le nombre choisi est")
 
 
 def convert_to_absolute() -> float:
