@@ -3,7 +3,7 @@
 
 
 from typing import List
-nombre = input("veuill")
+nombre = input("veuillez choisir un nombre")
 
 
 def convert_to_absolute() -> float:
