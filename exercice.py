@@ -10,7 +10,7 @@ print("le nombre choisi est:", nombre)
 def convert_to_absolute() -> float:
 nombre = input("veuillez choisir un nombre:")
 print("le nombre choisi est:", nombre)
-    return n
+    return nombre
 
 
 def use_prefixes() -> List[str]:
