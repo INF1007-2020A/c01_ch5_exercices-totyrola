@@ -3,7 +3,7 @@
 
 
 from typing import List
-
+nombre = input
 
 
 def convert_to_absolute() -> float:
