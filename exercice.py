@@ -7,7 +7,7 @@ from typing import List
 
 
 def convert_to_absolute() -> float:
-return abs(float)
+return abs(float(input("")))
 
 
 def use_prefixes() -> List[str]:
