@@ -17,7 +17,7 @@ def use_prefixes() -> List[str]:
     product(prefixes, suffixes, repeat=1)
 
    
-    return [product(pre)""]
+    return [product(prefixes,)]
 
 
 def prime_integer_summation() -> int:
