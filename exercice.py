@@ -8,9 +8,9 @@ print("le nombre choisi est:", nombre)
 
 
 def convert_to_absolute() -> float:
-    nombre = input("veuillez choisir un nombre:")
+nombre = input("veuillez choisir un nombre:")
 print("le nombre choisi est:", nombre)
-    return 0.0
+    return n
 
 
 def use_prefixes() -> List[str]:
