@@ -3,7 +3,7 @@
 
 
 from typing import List
-nombre = input("veuillez choisir un nombre")
+nombre = input("veuillez choisir un nombre:")
 print("le nombre c")
 
 
