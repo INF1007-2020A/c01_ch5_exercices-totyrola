@@ -9,7 +9,7 @@ from itertools import product
 
 
 def convert_to_absolute() -> float:
-    nombre = float(input("veuillez chois"))
+    nombre = float(input("Veuillez choisir un nombre:"))
    return 
 
 
