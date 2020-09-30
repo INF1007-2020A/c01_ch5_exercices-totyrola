@@ -17,7 +17,7 @@ def use_prefixes() -> List[str]:
     prefixes, suffixes = 'JKLMNOPQ', 'ack'
     for letter in prefixes:
         nom = (letter + suffixes)
-        list [nom]
+        list = [nom]
     
 
 
