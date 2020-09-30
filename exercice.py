@@ -10,7 +10,7 @@ from itertools import product
 
 def convert_to_absolute() -> float:
     nombre = float(input("Veuillez choisir un nombre:"))
-   return abs()
+   return abs(nombre)
 
 
 def use_prefixes() -> List[str]:
