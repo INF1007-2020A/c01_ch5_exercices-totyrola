@@ -37,7 +37,7 @@ def use_continue() -> None:
            continue
     else:
         pass
-print(i)
+    print(i)
 
 
 def main() -> None:
