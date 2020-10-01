@@ -1,18 +1,6 @@
-test_factorial (__main__.TestExercice) ... ERROR
+test_factorial (__main__.TestExercice) ... ok
 test_prefixes (__main__.TestExercice) ... ok
 test_summation (__main__.TestExercice) ... FAIL
-
-======================================================================
-ERROR: test_factorial (__main__.TestExercice)
-----------------------------------------------------------------------
-Traceback (most recent call last):
-  File "test_exercice.py", line 44, in test_factorial
-    output = [exercice.factorial(v) for v in values]
-  File "test_exercice.py", line 44, in <listcomp>
-    output = [exercice.factorial(v) for v in values]
-  File "/home/runner/work/c01_ch5_exercices-totyrola/c01_ch5_exercices-totyrola/exercice.py", line 30, in factorial
-    return math
-NameError: name 'math' is not defined
 
 ======================================================================
 FAIL: test_summation (__main__.TestExercice)
@@ -25,4 +13,4 @@ AssertionError: 0 != 24133 : Retrait du mauvais caractère
 ----------------------------------------------------------------------
 Ran 3 tests in 0.001s
 
-FAILED (failures=1, errors=1)
+FAILED (failures=1)
