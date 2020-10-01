@@ -32,6 +32,7 @@ def factorial(number: int) -> int:
 
 
 def use_continue() -> None:
+    for 
     pass
 
 
