@@ -18,7 +18,7 @@ def use_prefixes() -> List[str]:
     list = []
     for letter in prefixes:
         nom = (letter + suffixes)
-    
+        nom.append
         print (list)
     
 
