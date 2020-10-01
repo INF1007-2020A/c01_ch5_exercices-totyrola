@@ -18,7 +18,7 @@ def use_prefixes() -> List[str]:
     resultat = []
     for i in range(len(prefixes))
         nom = prefixes[i] + suffixe
-        
+        re
 
 
 def prime_integer_summation() -> int:
