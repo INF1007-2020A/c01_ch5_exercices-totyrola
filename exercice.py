@@ -16,7 +16,7 @@ def convert_to_absolute() -> float:
 def use_prefixes() -> List[str]:
     prefixes, suffixes = 'JKLMNOPQ', 'ack'
     resultat = []
-    for i in 
+    for i in range()
 
 
 def prime_integer_summation() -> int:
