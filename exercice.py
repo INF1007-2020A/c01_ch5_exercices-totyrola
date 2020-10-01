@@ -36,7 +36,7 @@ def use_continue() -> None:
         if i == 5
            pass
     else:
-        
+        print(i)
 
 
 def main() -> None:
